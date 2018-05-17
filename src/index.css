@@ -1,0 +1,10 @@
+.App-Header {
+    text-align: center;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+  }
